@@ -1,5 +1,4 @@
 ## 前端工程設計
 期中作業 _ 冷凍COOL
 
-HTML
-CSS
+使用技術 HTML / CSS
